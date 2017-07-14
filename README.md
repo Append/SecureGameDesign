@@ -10,7 +10,17 @@ discuss the different vectors of attack that a game may face, and finally presen
 goal of the framework is to ensure proper security controls are created from the beginning of the development cycle in order to limit loss 
 of revenue or respect in perpetuity.  
 
-## Gantt Chart
+## Project Timeline
+- Investigation into industry and game design practices
+- Investigation into game hacking
+  - client exploits
+  - server exploits
+ - Investigation of deterant and detection
+ - Creation of documentation geared towards small indie studios
+ - Review of documentation
+ - Presentation of materials
+
+### Gantt Chart
 ![Game Gantt](https://github.com/Append/SecureGameDesign/blob/master/images/game_gantt.PNG "Gantt")
 
 
