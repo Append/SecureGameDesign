@@ -23,6 +23,12 @@ of revenue or respect in perpetuity.
 ### Gantt Chart
 ![Game Gantt](https://github.com/Append/SecureGameDesign/blob/master/images/game_gantt.PNG "Gantt")
 
-
+## Project Goals/Deliverables
+1. Video game use stories (includes use of elements like skin marketplaces)
+2. Video game misuser stories
+3. Client-side security documentation
+4. Server-side security documentation
+5. Completed revised documentation
+6. Presentation of final materials 
 
 [1] http://csgobackpack.net/?&currency=USD this site is an inventory tracker for the Valve game Counter Strike: Global Offensive.  The site works by suming all public account item values in the current market.
